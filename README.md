@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # netdisk
 
 > A Vue.js project
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# netdisk
+>>>>>>> 9fc1b70a059ea53ec340de230cea29e72e463401
